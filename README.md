@@ -1,6 +1,7 @@
 # emma-book-api
 
 📚 Trabajo integrador: Biblioteca (Patrón MVC)
+
 El proyecto se trata de una biblioteca digital que sigue el patrón MVC
 El modelo tiene toda la lógica y creación de archivos y funciones que gestionan los datos Json.
 El controlador interpreta los comandos que recibe el servidor, conecta con los modelos y prepara la respuesta
