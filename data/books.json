@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "El Aleph",
+    "authorId": 1,
+    "publisherId": 1
+  },
+  {
+    "id": 2,
+    "title": "En Agosto nos vemos",
+    "authorId": 2,
+    "publisherId": 2
+  },
+  {
+    "id": 3,
+    "title": "El Viejo y el mar",
+    "authorId": 3,
+    "publisherId": 3
+  },
+  {
+    "id": 4,
+    "title": "Cuentos de amor locura y de muerte",
+    "authorId": 4,
+    "publisherId": 4
+  },
+  {
+    "id": 5,
+    "title": "El resplandor",
+    "authorId": 5,
+    "publisherId": 5
+  },
+  {
+    "id": 6,
+    "title": "Rayuela",
+    "authorId": 6,
+    "publisherId": 6
+  },
+  {
+    "id": 7,
+    "title": "El retrato de Dorian Grey",
+    "authorId": 7,
+    "publisherId": 7
+  },
+  {
+    "id": 8,
+    "title": "La casa de los espiritus",
+    "authorId": 8,
+    "publisherId": 8
+  },
+  {
+    "id": 9,
+    "title": "La vuelta al mundo en 80 dias",
+    "authorId": 9,
+    "publisherId": 9
+  },
+  {
+    "id": 10,
+    "title": "El Principito",
+    "authorId": 10,
+    "publisherId": 10
+  },
+  {
+    "id": 11,
+    "title": "Corazon delator y otros cuentos",
+    "authorId": 11,
+    "publisherId": 11
+  },
+  {
+    "id": 12,
+    "title": "Viaje al centro de la tierra",
+    "authorId": 12,
+    "publisherId": 12
+  },
+  {
+    "id": 13,
+    "title": "Cinco semanas en globo",
+    "authorId": 13,
+    "publisherId": 13
+  },
+  {
+    "id": 14,
+    "title": "El mago de Oz",
+    "authorId": 14,
+    "publisherId": 14
+  },
+  {
+    "id": 15,
+    "title": "El jardin secreto",
+    "authorId": 15,
+    "publisherId": 15
+  }
+]

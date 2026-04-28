@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Jorge Luis Borges",
+    "country": "Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Gabriel Garcia Marquez",
+    "country": "Colombia"
+  },
+  {
+    "id": 3,
+    "name": "Ernest Hemingway",
+    "country": "EEUU"
+  },
+  {
+    "id": 4,
+    "name": "Horacio Quiroga",
+    "country": "Uruguay"
+  },
+  {
+    "id": 5,
+    "name": "Stephen king",
+    "country": "EEUU"
+  },
+  {
+    "id": 6,
+    "name": "Julio Cortazar",
+    "country": "Argentino"
+  },
+  {
+    "id": 7,
+    "name": "Oscar Wilde",
+    "country": "Irlandes"
+  },
+  {
+    "id": 8,
+    "name": "Isabel Allende",
+    "country": "Chilena"
+  },
+  {
+    "id": 9,
+    "name": "Julio Verne",
+    "country": "Frances"
+  },
+  {
+    "id": 10,
+    "name": "Antoine De Saint Exupery",
+    "country": "Frances"
+  },
+  {
+    "id": 11,
+    "name": "Edgar Allan Poe",
+    "country": "Estadounidense"
+  },
+  {
+    "id": 12,
+    "name": "Julio Verne",
+    "country": "Frances"
+  },
+  {
+    "id": 13,
+    "name": "Julio Verne",
+    "country": "Frances"
+  },
+  {
+    "id": 14,
+    "name": "Lyman Frank Baum",
+    "country": "Estadounidense"
+  },
+  {
+    "id": 15,
+    "name": "Frances Hodgson Burnett",
+    "country": "Britanica"
+  }
+]

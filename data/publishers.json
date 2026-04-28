@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Editorial Losada",
+    "country": "Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Sudamericana",
+    "country": "Argentina"
+  },
+  {
+    "id": 3,
+    "name": "Debolsillo",
+    "country": "España"
+  },
+  {
+    "id": 4,
+    "name": "Terramar",
+    "country": "Argentina"
+  },
+  {
+    "id": 5,
+    "name": "Debolsillo",
+    "country": "España"
+  },
+  {
+    "id": 6,
+    "name": "Alfaguara",
+    "country": "España"
+  },
+  {
+    "id": 7,
+    "name": "Pluton Ediciones",
+    "country": "España"
+  },
+  {
+    "id": 8,
+    "name": "Debolsillo",
+    "country": "España"
+  },
+  {
+    "id": 9,
+    "name": "Letra impresa srl",
+    "country": "Argentina"
+  },
+  {
+    "id": 10,
+    "name": "Gargola",
+    "country": "Argentina"
+  },
+  {
+    "id": 11,
+    "name": "Unaluna",
+    "country": "España"
+  },
+  {
+    "id": 12,
+    "name": "Terramar",
+    "country": "Argentina"
+  },
+  {
+    "id": 13,
+    "name": "RBA libros",
+    "country": "España"
+  },
+  {
+    "id": 14,
+    "name": "Gribaudo",
+    "country": "España"
+  },
+  {
+    "id": 15,
+    "name": "Alma",
+    "country": "España"
+  }
+]
